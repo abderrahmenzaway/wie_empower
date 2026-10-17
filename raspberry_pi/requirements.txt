@@ -1,0 +1,9 @@
+# Raspberry Pi server and AI model
+requests
+pytz
+pandas
+scikit-learn
+joblib
+
+# Optional: Bluetooth Low Energy status (the server runs without it)
+# bleak
